@@ -1,0 +1,8 @@
+python-dotenv
+openai
+openai-agents
+google-cloud-aiplatform
+google-adk
+litellm
+requests
+beautifulsoup4
